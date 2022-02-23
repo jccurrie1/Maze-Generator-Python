@@ -1,0 +1,8 @@
+x_width:15
+y_width:15
+x_player_start:0
+y_player_start:0
+walls
+
+specials
+4, 0, green, 1, False
